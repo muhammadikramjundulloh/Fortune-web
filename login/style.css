@@ -1,0 +1,13 @@
+.container {
+  @media screen and (max-width: 800px);
+}
+.jumbotron {
+  background-size: 500px;
+  background-color: #1e90ff;
+  padding: 20%;
+  margin: 10%;
+}
+
+footer {
+  background-color: #1e90ff;
+}
